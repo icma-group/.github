@@ -1,1 +1,1 @@
-# ICMA Member Githib Site and Repositories
+# ICMA Member Github Site and Repositories
