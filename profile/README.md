@@ -15,6 +15,16 @@ public sector issuers, banks and securities dealers, asset and fund managers, in
 ICMA is a not-for-profit association (Verein) under the Swiss Civil Code. The Association is headquartered in Zurich, with offices in London, Paris, Brussels and 
 Hong Kong and registered in the Zurich Commercial Register.
 
+## Initiatives
+
+The ICMA Github site includes repositories for two major initiaives:
+
+ICMA Common Domain Model for Repo and Bonds
+https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/fintech/common-domain-model-cdm/
+
+ICMA Bond Data Taxonomy
+https://www.icmagroup.org/market-practice-and-regulatory-policy/fintech-and-digitalisation/fintech-advisory-committee-and-related-groups/bond-data-taxonomy
+
 <!--
 
 **Here are some ideas to get you started:**
